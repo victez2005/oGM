@@ -1,0 +1,154 @@
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.616)), url(istockphoto-537241730-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.Register {
+    margin-left: 830px;
+    margin-top: 100px;
+}
+
+.Register2 {
+    color: white;
+    padding-left: 70px;
+    padding-bottom: 66px;
+}
+
+.heading {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    justify-content: center;
+    margin-bottom: -60px;
+    margin-top: 233px;
+}
+
+h2 {
+    /* display: block; */
+    color: orange;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-right: 10px;
+    margin-top: 94px;
+}
+
+h3 {
+
+    color: blue;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.content {
+    width: 700px;
+    color: wheat;
+    position: relative;
+    top: -560px;
+}
+
+.content li {
+    font-size: 17px;
+    margin-top: 30px;
+    line-height: 2px;
+    margin-left: -20px;
+    color: wheat;
+
+
+}
+
+.content h4 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    padding-left: 30px;
+    letter-spacing: 3px;
+    line-height: 30px;
+
+
+}
+
+.content h5 {
+    font-size: 18px;
+    margin-top: -32px;
+    color: white;
+    padding-left: 150px;
+}
+
+.oGM {
+    color: white;
+    font-weight: 100px;
+    margin-left: 470px;
+}
+
+.icon {
+    margin-top: -880px;
+    color: white;
+    font-weight: 90px;
+    font-size: 30px;
+}
+
+.forms input {
+    background-color: wheat;
+    font-size: 15px;
+    color: black;
+}
+
+.forms input {
+    padding: 2px 1px;
+    border-bottom-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    background-color: wheat;
+
+}
+
+.Login {
+    padding-left: 175px;
+}
+
+button {
+    background-color: orange;
+    border: 0cap;
+    width: 120px;
+}
+
+.forms label {
+    color: white;
+    font-family: 'Lucida Sans';
+    font-weight: bolder;
+}
+
+.surename {
+    padding-left: 260px;
+    margin-top: -78px;
+}
+
+.email {
+    padding-left: 260px;
+    margin-top: -78px;
+}
+
+.business {
+    padding-left: 260px;
+    margin-top: -78px;
+}
+
+.address {
+    padding-left: 260px;
+    margin-top: -78px;
+}
+
+.business2 {
+    padding-left: 300px;
+    margin-top: -78px;
+    size: 10px;
+}
+
+.year {
+    padding-left: 134px;
+    margin-top: -78px;
+}

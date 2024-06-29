@@ -1,0 +1,87 @@
+.login {
+    width: 20px;
+    padding-left: 890px;
+    padding-bottom: 30px;
+}
+.login2{
+    color: white;
+    font-size: 60px;
+    padding-left: 120px;
+       size: 10px;
+      }
+.forms{
+    width: 100px;
+    padding-left: 20px;
+   border: 2px solid orange;
+  border-right: 10px;
+  
+  margin-bottom: 40px;
+     
+}
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.616)), url(istockphoto-537241730-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.forms input{
+    padding: 9px 102px;
+    border-bottom-right-radius: 9px;
+    border-bottom-right-radius: 9px;
+    background-color: wheat;
+
+}
+.register{
+    padding-left: 90px;
+}
+
+button{
+    background-color: orange;
+    border: 0cap;
+    width: 130px;
+}
+.heading {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 0px;
+    width: 90%;
+    justify-content: center;
+    margin-right: 90px;
+    margin-bottom: 300px;
+    padding-right: 80px;
+   }
+
+h2 {
+    /* display: block; */
+    color: orange;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-right: 10px;
+    margin-top: 600px;
+}
+
+h3 {
+
+    color: blue;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-right: 100px;
+    margin-top: 600px;
+}
+.oGM{
+    color: white;
+    font-weight: 100px;
+    margin-left: 480px;
+}
+.icon{
+    margin-top: -620px;
+    color: white;
+    font-weight: 90px;
+    font-size: 30px;
+}
+
+
+
+ 

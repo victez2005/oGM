@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.kosi {
+    height: 5px;
+
+
+
+
+}
+
+.back {
+    background-color: white;
+    background-color: sandybrown;
+}
+
+.icon {
+    width: 100px;
+    float: left;
+    height: 10px;
+
+}
+
+
+.mine {
+    float: left;
+    height: 80px;
+
+
+}
+
+
+.mine ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    float: left;
+    margin-left: 460PX;
+
+
+}
+
+.mine ul li {
+
+    font-size: 15px;
+    list-style: none;
+    margin-left: 40px;
+    margin-top: 18px;
+
+
+}
+
+.mine ul a {
+    color: orange;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+
+.drop-down {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+    position: absolute;
+    z-index: 100;
+    color: black;
+    line-height: 30px;
+    background-color: transparent;
+    margin-left: -27px;
+}
+
+.active:hover .drop-down {
+    display: block;
+}
+
+.menue-bar {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+    position: absolute;
+    z-index: 100;
+    color: black;
+    line-height: 30px;
+    background-color: transparent;
+    margin-left: -15px;
+
+}
+
+.contact-us {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+    position: absolute;
+    z-index: 100;
+    color: black;
+    line-height: 30px;
+    background-color: transparent;
+    margin-left: -8px;
+}
+
+.History {
+    margin-left: 12px;
+    margin-top: -14px;
+}
+
+.goto {
+    margin-left: 12px;
+}
+
+.whatsap {
+    margin-left: 5px;
+}
+
+.phone {
+    margin-left: 7px;
+}
+
+.phone {
+    display: block;
+}
+
+.contact:hover .contact-us {
+    display: block;
+}
+
+.us:hover .menue-bar {
+    display: block;
+}
+
+li a:hover {
+    color: white;
+}
+
+.serch {
+    float: right;
+    width: 290px;
+    margin-top: 10px;
+
+
+}
+
+.src {
+    font-family: 'Times New Roman';
+    width: 150px;
+    height: 32px;
+    background: transparent;
+    border: 1px solid orange;
+    margin-top: 0px;
+    color: white;
+    border-right: none;
+    font-size: 16px;
+    padding: 2px;
+    float: left;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+
+
+.boot {
+    width: 70px;
+    height: 30px;
+    background: orange;
+    border: 2px solid orange;
+    margin-top: 0px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.boot:focus {
+    outline: none;
+}
+
+.src:focus {
+    outline: none;
+}
+
+.content {
+    width: 450px;
+    color: wheat;
+    padding-right: 60px;
+    padding-left: -30px;
+    margin-left: 0px;
+    top: 60px;
+
+}
+
+.content li {
+    font-size: 20px;
+
+    /* line-height: 1px; */
+    margin-top: 42px;
+    margin-left: 20px;
+    color: wheat;
+
+}
+
+.content h4 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    padding-left: 30px;
+    letter-spacing: 3px;
+    line-height: 70px;
+
+
+}
+
+.content h5 {
+    font-size: 18px;
+    margin-top: 0px;
+    color: white;
+    padding-left: 150px;
+    line-height: 0px;
+}
+
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.616)), url(istockphoto-537241730-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    min-height: 100vh;
+
+}
+
+h1 {
+    /* display: block; */
+    color: orange;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-right: 10px;
+
+}
+
+h2 {
+
+    color: blue;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-right: 100px;
+
+}
+
+h3 {
+    font-size: 27px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+
+}
+
+.loggo {
+    float: right;
+    margin-right: 20px;
+
+
+}
+
+.heading {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+    width: 150vh;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 136px;
+    margin-top: 330px;
+    font-size: 20px;
+}
+
+.heading div:nth-last-of-type(2) div {
+    display: inline-block;
+}
+
+.oGM {
+    color: white;
+    font-weight: 4px;
+    margin-left: -64px;
+    padding-left: 30px;
+
+}
